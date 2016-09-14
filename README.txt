@@ -1,0 +1,6 @@
+I had quite a bit of trouble getting started with this project as I was intimidated by the idea of writing a poem. I had trouble coming up with an idea/topic that would allow for a "choose your own adventure". In trying to come up with an idea, I thought of the phrase "write what you know", so I began there and wrote about my predicament at the time - do homework, or watch Netflix? (I ended up doing my homework... this project!) Once I began, the rest was easy, as I wrote about the various components of a typical school night - doing homework, watching a bit of TV, having a bedtime snack, and eventually going to sleep. 
+
+In my poem, I started out with it not rhyming, but eventually I found that rhyming made it more playful and lively. Once the initial poem was done (I wrote it in word), I used the tags and html syntax to bring it to html form, which was very exciting. Afterward, I added in extra spacing using the <pre> tag to make up the "concrete" aspect, and added in ASCII art to spruce it up. 
+
+My intention with this project is to make people smile! I picture this almost as a childrens book or nursery rhyme because of the ASCII art "pictures" and rhyming aspect. I think the fact that it is interactive and the user can participate in the story makes it all the more fun. I hope that users can enjoy and relate to this story/poem.
+
